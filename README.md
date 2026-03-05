@@ -66,6 +66,7 @@ I will release a significantly more comprehensive, education-focused repository 
 - **Dyna:** Open-World Dexterity and Live Demos around the World [[Website](https://www.dyna.co/dyna-2/research)]
 
 ## Thematic Writing <a name="thematic-writing"></a>
+- **Prototype:** Why you should start a robotics startup [[Blog Post](https://updates.prototypecap.com/p/why-you-should-start-a-robotics-startup)]
 - **The case** for an omni-bodied robot brain [[Blog Post](https://www.skild.ai/blogs/omni-bodied)]
 - **Eric Jang:** All Roads Lead to Robotics [[Blog Post](https://evjang.com/2024/03/03/all-roads-robots.html)]
 - **Sergey Levine:** Sporks of AGI: Why the Real Thing is better than the Next Best Thing [[Blog Post](https://sergeylevine.substack.com/p/sporks-of-agi)]
