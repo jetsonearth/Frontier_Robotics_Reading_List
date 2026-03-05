@@ -56,7 +56,7 @@ I will release a significantly more comprehensive, education-focused repository 
 - **SpeedAug:** Policy Acceleration via Tempo-Enriched Policy and RL Fine-Tuning [[Paper](https://arxiv.org/abs/2512.00062)]
 
 ## Real-World Deployments <a name="real-world-deployments"></a>
-- **Nils:** A simple recipe for winning robotics [[Blog Post([https://x.com/broodsugar/status/2029098452760846574])]
+- A simple recipe for winning robotics [[Blog Post]([https://x.com/broodsugar/status/2029098452760846574])]
 - **2025 BEHAVIOR** Challenge Results [[Website](https://behavior.stanford.edu/challenge/index.html)]
 - **Learning on the Fly:** Rapid Policy Adaptation via Differentiable Simulation [[Website](https://rpg.ifi.uzh.ch/lotf/)]
 - **Robotics** Levels Of Autonomy [[Post](https://newsletter.semianalysis.com/p/robotics-levels-of-autonomy)]
