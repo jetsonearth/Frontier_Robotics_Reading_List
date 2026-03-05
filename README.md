@@ -1,5 +1,5 @@
 # Frontier Robotics Reading List
-[Jacob Rintamaki's](https://x.com/jacobrintamaki) curated repository of frontier robotics research, essays, and more. 
+[Jacob Rintamaki's](https://x.com/jacobrintamaki) curated repository of frontier robotics research, essays, and more (Jetson edit).
 
 This repository is meant to try to capture some of what I'm currently thinking about.
 
